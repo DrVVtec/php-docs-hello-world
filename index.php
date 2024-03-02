@@ -9,16 +9,16 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>Econnection</title>
   </head>
   <body>
-    <h1>Taller Econnection</h1>
+    <h1 class="text-center">Taller Econnection</h1>
 
     <p>
         Bienvenido al taller de Webscraping, para empezar descarga el siguiente archivo:
-
     </p>
 
+    <a href="https://tecmx-my.sharepoint.com/:u:/g/personal/david_valenzuela_tec_mx/EWjUNHwX7qdFu0ouSWEyh0QB0EZZ5fWtZ0tiFIbaXdLSYQ?e=yDwzEI">Web Scraping.Rmd</a>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
