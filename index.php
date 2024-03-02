@@ -12,13 +12,16 @@
     <title>Econnection</title>
   </head>
   <body>
+    <div class="container">
     <h1 class="text-center">Taller Econnection</h1>
+    <div class="container">
+        <p>
+            Bienvenido al taller de Webscraping, para empezar descarga el siguiente archivo:
+        </p>
 
-    <p>
-        Bienvenido al taller de Webscraping, para empezar descarga el siguiente archivo:
-    </p>
-
-    <a href="https://tecmx-my.sharepoint.com/:u:/g/personal/david_valenzuela_tec_mx/EWjUNHwX7qdFu0ouSWEyh0QB0EZZ5fWtZ0tiFIbaXdLSYQ?e=yDwzEI">Web Scraping.Rmd</a>
+        <a href="https://tecmx-my.sharepoint.com/:u:/g/personal/david_valenzuela_tec_mx/EWjUNHwX7qdFu0ouSWEyh0QB0EZZ5fWtZ0tiFIbaXdLSYQ?e=yDwzEI">Web Scraping.Rmd</a>
+        </div>
+    </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
