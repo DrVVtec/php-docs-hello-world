@@ -14,13 +14,13 @@
   <body>
     <div class="container">
     <h1 class="text-center">Taller Econnection</h1>
-    <div class="container">
+      <div class="container">
         <p>
             Bienvenido al taller de Webscraping, para empezar descarga el siguiente archivo:
         </p>
 
-        <a href="https://tecmx-my.sharepoint.com/:u:/g/personal/david_valenzuela_tec_mx/EWjUNHwX7qdFu0ouSWEyh0QB0EZZ5fWtZ0tiFIbaXdLSYQ?e=yDwzEI">Web Scraping.Rmd</a>
-        </div>
+        <a href="https://tecmx-my.sharepoint.com/:u:/g/personal/david_valenzuela_tec_mx/EclOvAnahRJGu1BeTc4przoBbB110Qxf-u_Ha-5Wu6ey7A?e=Rxug6u">Ejercicio taller WebScraping.Rmd</a>
+      </div>
     </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
